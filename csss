@@ -1,0 +1,20 @@
+h5 {
+  margin: 0;
+  padding: 0;
+}
+
+.statement {
+  font-size: 32px;
+  position: absolute;
+  transform: translate( 600px , 500px)
+}
+
+span {
+    text-indent: 50px;
+
+}
+
+.space {
+  width: 10px;
+  display: inline-block;
+}
